@@ -85,6 +85,10 @@ header {
   color: var(--logotype);
 }
 
+.header .logotype {
+  margin-right: 93px;
+}
+
 .logotype-accent,
 .navigation-list-link:hover,
 .navigation-list-link:focus,
