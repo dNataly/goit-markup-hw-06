@@ -82,7 +82,6 @@ header {
   font-size: 26px;
   line-height: 1.19;
   letter-spacing: 0.03em;
-  margin-right: 93px;
   color: var(--logotype);
 }
 
@@ -454,11 +453,7 @@ button:focus {
 .footer .container {
   display: flex;
   align-items: baseline;
-}
-
-.footer-social,
-.footer-subscribe {
-  margin-left: 70px;
+  justify-content: space-between;
 }
 
 .footer-heading {
